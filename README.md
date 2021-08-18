@@ -4,9 +4,8 @@
  
 
 ## How to run
-
 open with [google colab ](https://colab.research.google.com/notebooks/)
-
+view file: [view](https://github.com/leanh153/Predicting-House-Price/blob/main/predicting_house_price.ipynb)
 
 
 ## What's included
